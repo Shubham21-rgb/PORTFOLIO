@@ -1,0 +1,4 @@
+My name is Shubham and I am an enthusiastic ML Engineer. Currently, I am pursuing my graduation from IIT Madras.
+Skills: Python, PyTorch, Deep Learning Models, SQL, Full-stack operations, DBMS, strong foundation in Mathematics, CNN, Artificial Neural Networks.
+Internship: Developed a Quarter Management System at NIT Durgapur.
+Worked on multiple production-level projects such as College Booking applications.
